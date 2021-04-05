@@ -15,7 +15,7 @@
 ## Desplegament
 * ROS
   1. La primera vegada cal crear la imatge del Docker a partir del Dockerfile (S'ha d'executar desde sobre de les carpetes ros i docker.):  
-      `docker build . -f docker/Dockerfile -t ct2021`
+      `docker build . -f docker/Dockerfile -t 2021ct`
   2. Podem veure quines imatges tenim creades:  
       `docker images`
   3. Per executar una instància d'aquesta màquina:  
