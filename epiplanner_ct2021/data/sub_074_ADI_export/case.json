@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "pid": "074",
+    "date": "20170317"
+  }, 
+  "reference": {
+    "vtk": "ReferenceImage_CTpre.vtk",
+    "vtkOrigin": [0.0, 0.0, 0.0],
+    "vtkOrientation": [0.0, 0.0, 0.0],
+    "stl": "74_dfs.stl",    
+    "stlOrigin": [0.0, 0.0, 0.0],
+    "stlOrientation": [0.0, 0.0, 0.0],
+    "xmlFile":"ReferenceImage_CTpre.lmi"
+  },
+  "electrodes": {
+    "data": "74_ElectrodeProperties_CTpre.txt"
+  }  
+}

@@ -1,0 +1,10 @@
+Electrode File version 1
+#A'|entry: 53.5434 -40.6302 33.1636 |target: 14.9292 -28.429 35.0696 |color: 1 0 0|security_zone_radius: 3|
+#T'|entry: 54.2632 -33.488 23.8485 |target: 15.7704 -39.0525 27.931 |color: 0 0 1|security_zone_radius: 3|
+#E'|entry: 67.7188 2.72888 43.7101 |target: 22.8708 -1.39992 36.0705 |color: 0 0.6 0|security_zone_radius: 3|
+#B'|entry: 59.6421 -21.5082 32.1488 |target: 22.4772 -17.294 37.9749 |color: 0.6 0 0.6|security_zone_radius: 3|
+#C'|entry: 66.5383 -5.10675 57.3107 |target: 20.2737 4.26181 44.165 |color: 1 0.4 0|security_zone_radius: 3|
+#W'|entry: 67.4396 11.5787 57.8313 |target: 28.3874 17.101 65.8619 |color: 0 0.8 1|security_zone_radius: 3|
+#L'|entry: 67.3924 17.9967 48.4555 |target: 21.3089 22.9378 42.9608 |color: 0 1 0.2|security_zone_radius: 3|
+#A'^bis|entry: 55.0009 -37.9714 32.5483 |target: 15.4433 -26.5172 35.5795 |color: 1 0 0.8|security_zone_radius: 3|
+#Trayectoria^1|entry: 58.5679 -27.3229 32.8569 |target: 14.3651 -24.8493 37.5099 |color: 1 1 0.7843|security_zone_radius: 3|
